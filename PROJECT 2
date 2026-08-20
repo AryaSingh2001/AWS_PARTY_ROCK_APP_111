@@ -1,0 +1,23 @@
+Just built SHE-SWASTH 🩺 — a multilingual, privacy-first GenAI health navigator for women — at the AspireForHer × Logitech GenAI Hackathon.
+
+The idea: most women don't lack access to information — they lack safe, personalized, judgment-free guidance. SHE-SWASTH checks for red-flag symptoms, explains health concerns simply, gives self-care tips, and preps you for doctor visits — all without storing a single byte of personal data.
+
+Workflow:
+
+ A.Users select their health topic, age range, life stage, preferred language, and explanation style, and can also type their concern in the Health Concern Chat, with no personal or identifiable data stored (privacy-first design).
+ B• Prompt/instruction sent to the model- Provide safe, general health guidance for a user in [age group] with concern about [topic], using [language] and [style]. Avoid medical diagnosis and include red flag warnings. 
+C• GenAI model or service used- Uses AWS PartyRock (LLM-powered GenAI service) to generate context-aware health guidance and personalized, non-clinical explanations.(Claude Sonnet 4.6) 
+D• Processing, rules or validation steps- 
+1.Urgent Red Flag Check– Detects critical symptoms and advises immediate medical attention.
+ 2.Risk Factors & Self-Care Logic– Offers preventive tips and lifestyle recommendations. 
+3.Health Education Layer– Converts medical information into simple, easy-to-understand explanations. 
+4.Doctor Visit Preparation– Suggests relevant questions and helps users prepare for consultations. 
+5. Safety Rules– No diagnosis or prescriptions, no personal data storage, and a clear disclaimer is always shown. 
+E• Output returned to the user: Users receive personalized health guidance, red flag alerts (if detected), 
+self-care and prevention tips, doctor consultation guidance, and easy-to-understand explanations based on their selected style
+
+Built on AWS PartyRock with Claude Sonnet 4.6.
+
+🔗 https://partyrock.aws/u/Arya111/pl4j2AoBvz/SHE-SWASTH
+
+
