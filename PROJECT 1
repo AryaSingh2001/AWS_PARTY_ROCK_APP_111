@@ -1,0 +1,29 @@
+
+🚀 Built an AI-Powered Intelligent Resume Screening & Recruitment Recommendation System! hashtag#awspartyrock
+
+I’m excited to share a project I’ve been working on to make AI-driven recruitment smarter, fairer, and more explainable. 🤖📄
+Instead of relying only on keyword matching, this system follows a 9-stage intelligent pipeline:
+
+🔐 Privacy Layer — Detects and redacts PII for anonymized processing
+📑 Multimodal Analysis — Understands resume structure and content
+🧠 Skill Extraction — Maps skills to a domain-agnostic skill ontology
+🔄 Transferability Analysis — Identifies transferable skills across domains
+🎯 JD Matching — Generates a detailed resume-to-job matching score
+🌱 Cold-Start Handling — Supports sparse candidates and niche roles
+⏳ Temporal Relevance — Considers skill recency and future readiness
+⚖️ Fairness Ranking — Incorporates bias detection and fairness-aware scoring
+💡 Explainable Recommendation — Provides a transparent hire/no-hire recommendation
+
+The goal is not just to answer “Does this resume match the job?”, but also:
+👉 Why does it match?
+👉 Which skills are missing?
+👉 Which skills are transferable?
+👉 How relevant are the candidate’s recent skills?
+👉 Is the ranking fair and explainable?
+
+I’m particularly interested in the intersection of Generative AI, NLP, intelligent recruitment, explainable AI, and responsible AI.
+This project has also helped me explore how AI can move beyond simple automation toward more transparent and human-centered decision support.
+
+
+🔗 https://partyrock.aws/u/Arya111/JA1cp-vmU/AI-Powered-Intelligent-Resume-Screening-and-Recruitment-Recommendation-System
+
